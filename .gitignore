@@ -222,7 +222,7 @@ __marimo__/
 # other stuff
 .venv/
 data/
-data_processed/
+data-processed/
 models/
 __pycache__/
 *.pyc
