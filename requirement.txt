@@ -5,3 +5,8 @@ scikit-learn
 scipy
 joblib
 matplotlib
+torch
+torchvision
+onnx
+onnxscript
+onnxruntime
